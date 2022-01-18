@@ -17,7 +17,3 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lukailun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Karen_Loo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukailun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-[![Karen Loo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukailun&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=lukailun&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukailun&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
