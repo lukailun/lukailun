@@ -3,4 +3,4 @@
 - 💬 Ask me about iOS & Android.
 - 📫 How to reach me: Wechat(lukailun)
 
-[![lukailun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukailun&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![lukailun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukailun&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=lukailun&count_private=true)
