@@ -1,11 +1,11 @@
-#### **About me**
+### **About me**
 
 - 🔭 FrontEnd Engineer at [Celer Network](https://www.celer.network/).
 - 🌱 I’m currently learning React.
 - 💬 I love writing Swift & Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
 
-#### **Languages and Tools**  
+### **Languages and Tools**  
 
 <code><img width="20" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ios/ios.png"></code>
 <code><img width="20" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>  
