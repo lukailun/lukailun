@@ -5,7 +5,7 @@
 - 💬 I love writing Swift & Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>  
