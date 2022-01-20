@@ -1,13 +1,13 @@
+### **Visitor's Count**
+
+<img src="https://profile-counter.glitch.me/{lukailun}/count.svg" alt="AnhellO :: Visitor's Count" />
+
 ### **About me**
 
 - 🔭 Frontend Engineer at [Celer Network](https://www.celer.network/).
 - 🌱 I’m currently learning React.
 - 💬 I love writing Swift and Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
-
-### **Visitor's Count**
-
-<img src="https://profile-counter.glitch.me/{lukailun}/count.svg" alt="AnhellO :: Visitor's Count" />
 
 ### **Languages and Tools**  
 
