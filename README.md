@@ -5,6 +5,10 @@
 - 💬 I love writing Swift and Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
 
+### **Visitor's Count**
+
+<img src="https://profile-counter.glitch.me/{lukailun}/count.svg" alt="AnhellO :: Visitor's Count" />
+
 ### **Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ios/ios.png"></code>
