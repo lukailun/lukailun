@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🔭 Frontend Engineer at [Celer Network](https://www.celer.network/).
+- 🔭 Frontend Engineer at [2RedBeans](https://www.2redbeans.com).
 - 🌱 I’m currently learning React.
 - 💬 I love writing Swift and Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
