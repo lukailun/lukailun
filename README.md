@@ -4,8 +4,8 @@
 
 ### About Me
 
-- 🔭 Frontend Engineer at [2RedBeans](https://www.2redbeans.com).
-- 🌱 I’m currently learning React.
+- 🔭 Frontend Engineer at [Zheshi](https://zheshi.tech/).
+- 🌱 I’m currently learning Flutter.
 - 💬 I love writing Swift and Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
 
