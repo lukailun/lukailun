@@ -5,7 +5,7 @@
 ### About Me
 
 - 🔭 Frontend Engineer at [Zheshi](https://zheshi.tech/).
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Vue.
 - 💬 I love writing Swift and Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
 
