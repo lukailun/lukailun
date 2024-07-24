@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mobile+Developer;Web+Developer)](https://git.io/typing-svg)
+
 ### Visitor's Count
 
 <img src="https://profile-counter.glitch.me/{lukailun}/count.svg" alt="AnhellO :: Visitor's Count" />
