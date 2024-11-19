@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mobile+Developer;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mobile+Developer;Front-end+Developer)](https://git.io/typing-svg)
 
 ### Visitor's Count
 
