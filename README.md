@@ -6,8 +6,8 @@
 
 ### About Me
 
-- 🔭 Frontend Engineer at [Zheshi](https://zheshi.tech/).
-- 🌱 I’m currently learning Vue.
+- 🔭 Frontend Engineer at [4tune]([https://zheshi.tech/](https://www.4tune.tech/)).
+- 🌱 I’m currently learning React Native.
 - 💬 I love writing Swift and Kotlin.
 - 📫 How to reach me: Wechat(lukailun).
 
