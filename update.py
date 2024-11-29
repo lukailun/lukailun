@@ -62,7 +62,6 @@ abstract_tpl = """## Abstract
 </p>
 
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,css,dart,flutter,git,github,githubactions,gitlab,gmail,html,js,kotlin,md,nodejs,npm,pinia,pnpm,py,react,reactivex,redux,sqlite,stackoverflow,sentry,swift,tailwind,ts,vscode,vue)
-
 """
 
 recent_repos_tpl = """\n## Recent Updates
@@ -76,8 +75,7 @@ top_repos_tpl = """\n## Top Projects
 """.format(current_time)
 
 footer_tpl = f"""
-\n
-*Last updated on: {current_time}*
+*Last updated: {current_time}*
 """
 
 

@@ -1,11 +1,11 @@
 ## Abstract
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lukailun&show_icons=true&hide_border=true" alt="Karen's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukailun&layout=compact&hide_border=true&langs_count=10" alt="Karen's Top Langs" width="37%" /> 
+  <img src="https://profile-counter.glitch.me/{github_username}/count.svg" alt="AnhellO :: Visitor's Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="100%" /> 
 </p>
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,babel,css,dart,firebase,flutter,git,github,githubactions,gitlab,gmail,gradle,html,js,kotlin,ktor,md,netlify,nodejs,npm,pinia,pnpm,py,react,reactivex,redux,sqlite,stackoverflow,sentry,swift,tailwind,ts,vscode,vue)
-
+![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,css,dart,flutter,git,github,githubactions,gitlab,gmail,html,js,kotlin,md,nodejs,npm,pinia,pnpm,py,react,reactivex,redux,sqlite,stackoverflow,sentry,swift,tailwind,ts,vscode,vue)
 
 ## Top Projects
 |Project|Description|Stars|
@@ -34,7 +34,5 @@
 |[Xcode-Project-and-File-Templates](https://github.com/lukailun/Xcode-Project-and-File-Templates)|Learn how to create custom project and file templates in Xcode to start new projects and files more efficiently.|![2024-04-15 07:34:02](https://img.shields.io/badge/2024--04--15-07%3A34%3A02-brightgreen?style=flat-square)|
 |[SwiftUI-Tutorial-Navigation](https://github.com/lukailun/SwiftUI-Tutorial-Navigation)|In this tutorial, you’ll use SwiftUI to implement the navigation of a master-detail app. You’ll learn how to implement a navigation stack, a navigation bar button, a context menu and a modal sheet.|![2024-04-02 23:01:03](https://img.shields.io/badge/2024--04--02-23%3A01%3A03-brightgreen?style=flat-square)|
 |[SwiftUI-Localization-Tutorial-for-iOS-Getting-Started](https://github.com/lukailun/SwiftUI-Localization-Tutorial-for-iOS-Getting-Started)|Learn time-saving techniques to transform your team’s localization workflow!|![2024-03-31 09:50:26](https://img.shields.io/badge/2024--03--31-09%3A50%3A26-brightgreen?style=flat-square)|
-
-
 
 *Last updated on: 2024-11-29 19:02:55*
