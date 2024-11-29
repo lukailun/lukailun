@@ -106,7 +106,6 @@ def writer(markdown) -> bool:
             f.write(markdown)
     except IOError:
         ok = False
-        print('unable to write to file')
     return ok
 
 
