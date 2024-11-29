@@ -7,10 +7,8 @@ token = ''
 current_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 top_repo_num = 10
 recent_repo_num = 10
-
 from_zone = tz.tzutc()
 to_zone = tz.tzlocal()
-
 
 def fetcher(username: str):
     result = {
@@ -58,6 +56,7 @@ def fetcher(username: str):
 
 abstract_tpl = """## Abstract
 <p>
+  <img src="https://profile-counter.glitch.me/{github_username}/count.svg" alt="AnhellO :: Visitor's Count" />
   <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="100%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="100%" /> 
 </p>
@@ -82,7 +81,7 @@ footer_tpl = f"""
 """
 
 
-def render(github_username, github_data, zhihu_username='') -> str:
+def render(github_username, github_data) -> str:
     markdown = ""
     global abstract_tpl
     markdown += abstract_tpl.format(github_username=github_username, github_name=github_data['name'])
@@ -126,9 +125,8 @@ def main():
     if not github_username:
         cwd = os.getcwd()
         github_username = os.path.split(cwd)[-1]
-    zhihu_username = os.getenv('ZHIHU_USERNAME')
     github_data = fetcher(github_username)
-    markdown = render(github_username, github_data, zhihu_username)
+    markdown = render(github_username, github_data)
     if writer(markdown):
         pass
 
