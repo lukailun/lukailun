@@ -62,7 +62,7 @@ abstract_tpl = """## Abstract
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="37%" /> 
 </p>
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,babel,css,dart,firebase,flutter,git,github,githubactions,gitlab,gmail,gradle,html,js,kotlin,ktor,md,netlify,nodejs,npm,pinia,pnpm,py,react,reactivex,redux,sqlite,stackoverflow,sentry,swift,tailwind,ts,vscode,vue)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,css,dart,flutter,git,github,githubactions,gitlab,gmail,html,js,kotlin,md,nodejs,npm,pinia,pnpm,py,react,reactivex,redux,sqlite,stackoverflow,sentry,swift,tailwind,ts,vscode,vue)
 
 """
 
