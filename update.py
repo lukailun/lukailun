@@ -127,10 +127,6 @@ def pusher():
     os.system('git push')
 
 def main():
-    global top_repo_num
-    global recent_repo_num
-    top_repo_num = 10
-    recent_repo_num = 10
     github_username = os.getenv('GITHUB_USERNAME')
     if not github_username:
         cwd = os.getcwd()
