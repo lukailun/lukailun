@@ -56,7 +56,7 @@ def fetcher(username: str):
 
 about_me_tpl = """## Visitor's Count
 
-<img src="https://profile-counter.glitch.me/{{github_username}}/count.svg" alt="{{github_name}} :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{github_username}/count.svg" alt="{github_name} :: Visitor's Count" />
 
 ## Github Stats
 
