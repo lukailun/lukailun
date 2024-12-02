@@ -5,8 +5,8 @@ from dateutil import tz
 
 token = ''
 current_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-top_repo_num = 10
-recent_repo_num = 10
+top_repo_num = 5
+recent_repo_num = 5
 from_zone = tz.tzutc()
 to_zone = tz.tzlocal()
 
