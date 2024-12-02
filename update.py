@@ -58,6 +58,8 @@ about_me_tpl = """## Visitor's Count
 
 <img src="https://profile-counter.glitch.me/{{github_username}}/count.svg" alt="{{github_name}} :: Visitor's Count" />
 
+## Github Stats
+
 <table>
   <tr>
     <td>
@@ -69,9 +71,13 @@ about_me_tpl = """## Visitor's Count
   </tr>
 </table>
 
+## Github Trophy
+
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username={github_username}" alt="{github_name}'s Github Trophy" /></a>
 </p>
+
+## My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,css,dart,flutter,git,github,githubactions,gitlab,gmail,html,js,kotlin,md,nodejs,npm,pinia,pnpm,py,react,reactivex,redux,sqlite,stackoverflow,sentry,swift,tailwind,ts,vscode,vue)
 """
