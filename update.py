@@ -103,7 +103,7 @@ def render(github_username, github_data) -> str:
     markdown += about_me_tpl.format(github_username=github_username, github_name=github_data['name'])
     global top_repos_tpl
     for repo in github_data['top_repos']:
-        top_repos_tpl += "|[{name}]({link})|{description}|`{star}⭐`|\n".format(**repo)
+        top_repos_tpl += "|[{name}]({link})|{description}|`⭐{star}`|\n".format(**repo)
     markdown += top_repos_tpl
     global recent_repos_tpl
     for repo in github_data['recent_repos']:
