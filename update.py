@@ -56,7 +56,7 @@ def fetcher(username: str):
 
 abstract_tpl = """## Abstract
 <p>
-  <img src="https://profile-counter.glitch.me/{{github_username}}/count.svg" alt="AnhellO :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{github_username}/count.svg" alt="AnhellO :: Visitor's Count" />
   <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="100%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="100%" /> 
 </p>
