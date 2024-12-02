@@ -54,15 +54,15 @@ def fetcher(username: str):
     result['recent_repos'] = recent_repos
     return result
 
-abstract_tpl = '''## Abstract
+abstract_tpl = """## Abstract
 <p>
-  <img src="https://profile-counter.glitch.me/{0}/count.svg" alt="{1} :: Visitor's Count" />
-  <img src="https://github-readme-stats.vercel.app/api?username={0}&show_icons=true&hide_border=true" alt="{1}'s Github Stats" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={0}&layout=compact&hide_border=true&langs_count=10" alt="{1}'s Top Langs" width="100%" /> 
+  <img src="https://profile-counter.glitch.me/{github_username}/count.svg" alt="{github_name} :: Visitor's Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="100%" /> 
 </p>
 
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,css,dart,flutter,git,github,githubactions,gitlab,gmail,html,js,kotlin,md,nodejs,npm,pinia,pnpm,py,react,reactivex,redux,sqlite,stackoverflow,sentry,swift,tailwind,ts,vscode,vue)
-'''
+"""
 
 recent_repos_tpl = """\n## Recent Updates
 |Project|Description|Last Update|
@@ -78,10 +78,11 @@ footer_tpl = f"""
 *Last updated: {current_time}*
 """
 
+
 def render(github_username, github_data) -> str:
     markdown = ""
     global abstract_tpl
-    markdown += abstract_tpl.format(github_username, github_data['name'])
+    markdown += abstract_tpl.format(github_username=github_username, github_name=github_data['name'])
     global top_repos_tpl
     for repo in github_data['top_repos']:
         top_repos_tpl += "|[{name}]({link})|{description}|`{star}⭐`|\n".format(**repo)
@@ -94,6 +95,7 @@ def render(github_username, github_data) -> str:
     markdown += footer_tpl
     return markdown
 
+
 def writer(markdown) -> bool:
     ok = True
     try:
@@ -102,6 +104,7 @@ def writer(markdown) -> bool:
     except IOError:
         ok = False
     return ok
+
 
 def pusher():
     commit_message = ":pencil2: update on {}".format(current_time)
