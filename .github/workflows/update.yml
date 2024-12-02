@@ -3,14 +3,7 @@ name: Update Profile
 on:
   schedule:
     - cron: "0 12 * * SUN"
-  push:
-    tags:
-      - '*'
   workflow_dispatch:
-    inputs:
-      name:
-        description: 'Reason'
-        required: false
 
 jobs:
   build:
