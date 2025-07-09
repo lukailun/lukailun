@@ -31,16 +31,16 @@
 |[eCanCrusher-for-macOS](https://github.com/lukailun/eCanCrusher-for-macOS)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐5`|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|`⭐2`|
 |[eCanCrusher-for-Windows](https://github.com/lukailun/eCanCrusher-for-Windows)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐0`|
+|[Firebase-Tutorial-Getting-Started](https://github.com/lukailun/Firebase-Tutorial-Getting-Started)|Learn Firebase fundamentals including saving data, real-time sync, authentication, user status and offline support.|`⭐0`|
 |[Flutter-Resume](https://github.com/lukailun/Flutter-Resume)|A simple resume written by Flutter.|`⭐0`|
-|[Jetpack-Compose-Resume](https://github.com/lukailun/Jetpack-Compose-Resume)|A simple resume written by Jetpack Compose.|`⭐0`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[Firebase-Tutorial-Getting-Started](https://github.com/lukailun/Firebase-Tutorial-Getting-Started)|Learn Firebase fundamentals including saving data, real-time sync, authentication, user status and offline support.|![2025-07-08 19:02:45](https://img.shields.io/badge/2025--07--08-19%3A02%3A45-brightgreen?style=flat-square)|
+|[Image-Manager-Browser-Extension](https://github.com/lukailun/Image-Manager-Browser-Extension)|None|![2025-07-08 15:49:30](https://img.shields.io/badge/2025--07--08-15%3A49%3A30-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with visitor counter, stats, top repos and recent activities.|![2025-07-08 08:50:52](https://img.shields.io/badge/2025--07--08-08%3A50%3A52-brightgreen?style=flat-square)|
 |[Sdorica-Asset-Extractor](https://github.com/lukailun/Sdorica-Asset-Extractor)|A Python tool for extracting assets from Unity Asset Bundle (.ab) files, specifically designed for Sdorica game assets. This extractor focuses on character figure assets and supports both single file and batch processing.|![2025-07-07 13:46:55](https://img.shields.io/badge/2025--07--07-13%3A46%3A55-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with visitor counter, stats, top repos and recent activities.|![2025-07-07 08:54:46](https://img.shields.io/badge/2025--07--07-08%3A54%3A46-brightgreen?style=flat-square)|
 |[World-Heritage-UI](https://github.com/lukailun/World-Heritage-UI)|A "World Heritage" App design draft generated using Claude Sonnet 4, with prompts included.|![2025-06-27 21:01:18](https://img.shields.io/badge/2025--06--27-21%3A01%3A18-brightgreen?style=flat-square)|
-|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2025-06-27 18:19:02](https://img.shields.io/badge/2025--06--27-18%3A19%3A02-brightgreen?style=flat-square)|
-|[React-Native-World-Heritage](https://github.com/lukailun/React-Native-World-Heritage)|None|![2025-06-26 18:16:29](https://img.shields.io/badge/2025--06--26-18%3A16%3A29-brightgreen?style=flat-square)|
 
-*Last updated: 2025-07-08 08:50:51*
+*Last updated: 2025-07-09 08:51:57*
