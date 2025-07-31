@@ -1,7 +1,3 @@
-## Visitor's Count
-
-<img src="https://profile-counter.glitch.me/lukailun/count.svg" alt="Karen :: Visitor's Count" />
-
 ## Github Stats
 
 <table>
