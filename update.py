@@ -54,11 +54,7 @@ def fetcher(username: str):
     result['recent_repos'] = recent_repos
     return result
 
-about_me_tpl = """## Visitor's Count
-
-<img src="https://profile-counter.glitch.me/{github_username}/count.svg" alt="{github_name} :: Visitor's Count" />
-
-## Github Stats
+about_me_tpl = """## Github Stats
 
 <table>
   <tr>
