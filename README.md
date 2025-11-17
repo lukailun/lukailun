@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[Weather-Scape](https://github.com/lukailun/Weather-Scape)|Transform your browser experience with real-time weather themes. Watch as your browser dynamically changes with the weather - sunny days bring warm sunlight effects, rainy days create soothing rain animations, and cloudy skies add gentle cloud movements.|![2025-11-16 22:27:17](https://img.shields.io/badge/2025--11--16-22%3A27%3A17-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2025-11-16 08:52:52](https://img.shields.io/badge/2025--11--16-08%3A52%3A52-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2025-11-15 15:14:10](https://img.shields.io/badge/2025--11--15-15%3A14%3A10-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2025-11-15 08:47:17](https://img.shields.io/badge/2025--11--15-08%3A47%3A17-brightgreen?style=flat-square)|
 |[Sdorica-Character-Art](https://github.com/lukailun/Sdorica-Character-Art)|None|![2025-10-22 19:01:32](https://img.shields.io/badge/2025--10--22-19%3A01%3A32-brightgreen?style=flat-square)|
 |[Sdorica-Asset-Extractor](https://github.com/lukailun/Sdorica-Asset-Extractor)|A Python tool for extracting assets from Unity Asset Bundle (.ab) files, specifically designed for Sdorica game assets. This extractor focuses on character figure assets and supports both single file and batch processing.|![2025-09-24 18:36:16](https://img.shields.io/badge/2025--09--24-18%3A36%3A16-brightgreen?style=flat-square)|
-|[Rednote-AI-Agent](https://github.com/lukailun/Rednote-AI-Agent)|Rednote AI Agent is an AI-powered automation tool designed for Rednote to automate social media interactions such as liking, bookmarking, and commenting. It leverages advanced AI models to generate engaging content, automate interactions, and manage Rednote accounts efficiently.|![2025-09-14 01:29:19](https://img.shields.io/badge/2025--09--14-01%3A29%3A19-brightgreen?style=flat-square)|
 
-*Last updated: 2025-11-16 08:52:51*
+*Last updated: 2025-11-17 08:51:01*
