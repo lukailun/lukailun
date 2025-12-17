@@ -28,15 +28,15 @@
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|`⭐4`|
 |[claude-code-enhanced-prompt](https://github.com/lukailun/claude-code-enhanced-prompt)|None|`⭐0`|
 |[claude-code-marketplace](https://github.com/lukailun/claude-code-marketplace)|None|`⭐0`|
-|[eCanCrusher-for-Windows](https://github.com/lukailun/eCanCrusher-for-Windows)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐0`|
+|[dot-claude](https://github.com/lukailun/dot-claude)|None|`⭐0`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[dot-claude](https://github.com/lukailun/dot-claude)|None|![2025-12-16 13:40:02](https://img.shields.io/badge/2025--12--16-13%3A40%3A02-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2025-12-16 08:52:48](https://img.shields.io/badge/2025--12--16-08%3A52%3A48-brightgreen?style=flat-square)|
 |[claude-code-enhanced-prompt](https://github.com/lukailun/claude-code-enhanced-prompt)|None|![2025-12-15 18:19:53](https://img.shields.io/badge/2025--12--15-18%3A19%3A53-brightgreen?style=flat-square)|
 |[claude-code-marketplace](https://github.com/lukailun/claude-code-marketplace)|None|![2025-12-15 18:19:03](https://img.shields.io/badge/2025--12--15-18%3A19%3A03-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2025-12-15 08:54:45](https://img.shields.io/badge/2025--12--15-08%3A54%3A45-brightgreen?style=flat-square)|
 |[Weather-Scape](https://github.com/lukailun/Weather-Scape)|Transform your browser experience with real-time weather themes. Watch as your browser dynamically changes with the weather - sunny days bring warm sunlight effects, rainy days create soothing rain animations, and cloudy skies add gentle cloud movements.|![2025-11-16 22:27:17](https://img.shields.io/badge/2025--11--16-22%3A27%3A17-brightgreen?style=flat-square)|
-|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2025-11-15 15:14:10](https://img.shields.io/badge/2025--11--15-15%3A14%3A10-brightgreen?style=flat-square)|
 
-*Last updated: 2025-12-16 08:52:47*
+*Last updated: 2025-12-17 08:47:29*
