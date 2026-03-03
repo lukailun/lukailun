@@ -28,15 +28,15 @@
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|`⭐4`|
 |[AI-Dev-Kit](https://github.com/lukailun/AI-Dev-Kit)|None|`⭐0`|
 |[claude-code-enhanced-prompt](https://github.com/lukailun/claude-code-enhanced-prompt)|None|`⭐0`|
-|[eCanCrusher-for-Windows](https://github.com/lukailun/eCanCrusher-for-Windows)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐0`|
+|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code Skills：自动化工作流，集成 Linear 和 GitLab|`⭐0`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-03-01 09:12:28](https://img.shields.io/badge/2026--03--01-09%3A12%3A28-brightgreen?style=flat-square)|
+|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code Skills：自动化工作流，集成 Linear 和 GitLab|![2026-03-02 14:20:28](https://img.shields.io/badge/2026--03--02-14%3A20%3A28-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-03-02 09:04:55](https://img.shields.io/badge/2026--03--02-09%3A04%3A55-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-02-27 15:10:49](https://img.shields.io/badge/2026--02--27-15%3A10%3A49-brightgreen?style=flat-square)|
 |[AI-Dev-Kit](https://github.com/lukailun/AI-Dev-Kit)|None|![2025-12-23 11:04:42](https://img.shields.io/badge/2025--12--23-11%3A04%3A42-brightgreen?style=flat-square)|
 |[claude-code-enhanced-prompt](https://github.com/lukailun/claude-code-enhanced-prompt)|None|![2025-12-15 18:19:53](https://img.shields.io/badge/2025--12--15-18%3A19%3A53-brightgreen?style=flat-square)|
-|[Sdorica-Character-Art](https://github.com/lukailun/Sdorica-Character-Art)|None|![2025-10-22 19:01:32](https://img.shields.io/badge/2025--10--22-19%3A01%3A32-brightgreen?style=flat-square)|
 
-*Last updated: 2026-03-02 09:04:54*
+*Last updated: 2026-03-03 09:06:40*
