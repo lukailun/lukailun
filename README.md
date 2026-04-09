@@ -28,15 +28,15 @@
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|`⭐4`|
 |[AI-Dev-Kit](https://github.com/lukailun/AI-Dev-Kit)|None|`⭐0`|
 |[claude-code-enhanced-prompt](https://github.com/lukailun/claude-code-enhanced-prompt)|None|`⭐0`|
-|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code Skills：自动化工作流，集成 Linear 和 GitLab|`⭐0`|
+|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|`⭐0`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-04-07 09:15:36](https://img.shields.io/badge/2026--04--07-09%3A15%3A36-brightgreen?style=flat-square)|
+|[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-04-09 08:55:58](https://img.shields.io/badge/2026--04--09-08%3A55%3A58-brightgreen?style=flat-square)|
+|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-04-08 20:48:23](https://img.shields.io/badge/2026--04--08-20%3A48%3A23-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-04-08 09:16:36](https://img.shields.io/badge/2026--04--08-09%3A16%3A36-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-04-04 15:06:42](https://img.shields.io/badge/2026--04--04-15%3A06%3A42-brightgreen?style=flat-square)|
-|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code Skills：自动化工作流，集成 Linear 和 GitLab|![2026-03-02 14:20:28](https://img.shields.io/badge/2026--03--02-14%3A20%3A28-brightgreen?style=flat-square)|
 |[AI-Dev-Kit](https://github.com/lukailun/AI-Dev-Kit)|None|![2025-12-23 11:04:42](https://img.shields.io/badge/2025--12--23-11%3A04%3A42-brightgreen?style=flat-square)|
-|[claude-code-enhanced-prompt](https://github.com/lukailun/claude-code-enhanced-prompt)|None|![2025-12-15 18:19:53](https://img.shields.io/badge/2025--12--15-18%3A19%3A53-brightgreen?style=flat-square)|
 
-*Last updated: 2026-04-08 09:16:35*
+*Last updated: 2026-04-09 09:06:31*
