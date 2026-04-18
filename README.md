@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-04-17 23:26:33](https://img.shields.io/badge/2026--04--17-23%3A26%3A33-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-04-17 09:21:30](https://img.shields.io/badge/2026--04--17-09%3A21%3A30-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-04-16 20:53:37](https://img.shields.io/badge/2026--04--16-20%3A53%3A37-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-04-16 09:24:02](https://img.shields.io/badge/2026--04--16-09%3A24%3A02-brightgreen?style=flat-square)|
-|[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-04-09 08:55:58](https://img.shields.io/badge/2026--04--09-08%3A55%3A58-brightgreen?style=flat-square)|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-04-08 20:48:23](https://img.shields.io/badge/2026--04--08-20%3A48%3A23-brightgreen?style=flat-square)|
 |[Sdorica-Character-Art](https://github.com/lukailun/Sdorica-Character-Art)|None|![2025-10-22 19:01:32](https://img.shields.io/badge/2025--10--22-19%3A01%3A32-brightgreen?style=flat-square)|
 
-*Last updated: 2026-04-17 09:21:29*
+*Last updated: 2026-04-18 09:15:04*
