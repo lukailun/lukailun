@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-05-26 16:32:42](https://img.shields.io/badge/2026--05--26-16%3A32%3A42-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-05-26 09:59:23](https://img.shields.io/badge/2026--05--26-09%3A59%3A23-brightgreen?style=flat-square)|
 |[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-05-25 22:38:08](https://img.shields.io/badge/2026--05--25-22%3A38%3A08-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-05-25 10:08:46](https://img.shields.io/badge/2026--05--25-10%3A08%3A46-brightgreen?style=flat-square)|
 |[pulaude](https://github.com/lukailun/pulaude)|Pulse for Claude — a physical status indicator for your pocket.|![2026-05-14 10:40:03](https://img.shields.io/badge/2026--05--14-10%3A40%3A03-brightgreen?style=flat-square)|
-|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-05-09 19:01:33](https://img.shields.io/badge/2026--05--09-19%3A01%3A33-brightgreen?style=flat-square)|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-05-06 19:25:14](https://img.shields.io/badge/2026--05--06-19%3A25%3A14-brightgreen?style=flat-square)|
 
-*Last updated: 2026-05-26 09:59:23*
+*Last updated: 2026-05-27 10:08:39*
