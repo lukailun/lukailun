@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-05-29 10:45:35](https://img.shields.io/badge/2026--05--29-10%3A45%3A35-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-05-29 10:00:09](https://img.shields.io/badge/2026--05--29-10%3A00%3A09-brightgreen?style=flat-square)|
+|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-05-30 20:08:02](https://img.shields.io/badge/2026--05--30-20%3A08%3A02-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-05-30 09:55:14](https://img.shields.io/badge/2026--05--30-09%3A55%3A14-brightgreen?style=flat-square)|
 |[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-05-28 20:31:14](https://img.shields.io/badge/2026--05--28-20%3A31%3A14-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-05-26 16:32:42](https://img.shields.io/badge/2026--05--26-16%3A32%3A42-brightgreen?style=flat-square)|
 |[pulaude](https://github.com/lukailun/pulaude)|Pulse for Claude — a physical status indicator for your pocket.|![2026-05-14 10:40:03](https://img.shields.io/badge/2026--05--14-10%3A40%3A03-brightgreen?style=flat-square)|
 
-*Last updated: 2026-05-30 09:55:13*
+*Last updated: 2026-05-31 10:09:49*
