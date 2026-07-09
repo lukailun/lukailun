@@ -27,16 +27,16 @@
 |[eCanCrusher-for-macOS](https://github.com/lukailun/eCanCrusher-for-macOS)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐5`|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|`⭐5`|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|`⭐0`|
+|[Context-Engineering-for-AI](https://github.com/lukailun/Context-Engineering-for-AI)|Explore context engineering as the foundation for building reliable, efficient AI systems. Learn how LLMs, prompting, RAG, agents, LangChain, and LangGraph work together in real applications. Understand the AI platform ecosystem and build practical workflows to choose the right tools for real-world use cases.|`⭐0`|
 |[eCanCrusher-for-Windows](https://github.com/lukailun/eCanCrusher-for-Windows)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐0`|
-|[Flutter-Resume](https://github.com/lukailun/Flutter-Resume)|A simple resume written by Flutter.|`⭐0`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-07-07 22:45:31](https://img.shields.io/badge/2026--07--07-22%3A45%3A31-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-07-07 09:54:25](https://img.shields.io/badge/2026--07--07-09%3A54%3A25-brightgreen?style=flat-square)|
+|[Context-Engineering-for-AI](https://github.com/lukailun/Context-Engineering-for-AI)|Explore context engineering as the foundation for building reliable, efficient AI systems. Learn how LLMs, prompting, RAG, agents, LangChain, and LangGraph work together in real applications. Understand the AI platform ecosystem and build practical workflows to choose the right tools for real-world use cases.|![2026-07-08 20:50:40](https://img.shields.io/badge/2026--07--08-20%3A50%3A40-brightgreen?style=flat-square)|
+|[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-07-08 18:08:40](https://img.shields.io/badge/2026--07--08-18%3A08%3A40-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-07-08 09:25:10](https://img.shields.io/badge/2026--07--08-09%3A25%3A10-brightgreen?style=flat-square)|
 |[pulaude](https://github.com/lukailun/pulaude)|Pulse for Claude — a physical status indicator for your pocket.|![2026-06-30 17:17:19](https://img.shields.io/badge/2026--06--30-17%3A17%3A19-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-06-11 01:59:15](https://img.shields.io/badge/2026--06--11-01%3A59%3A15-brightgreen?style=flat-square)|
-|[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-06-03 19:21:56](https://img.shields.io/badge/2026--06--03-19%3A21%3A56-brightgreen?style=flat-square)|
 
-*Last updated: 2026-07-08 09:25:09*
+*Last updated: 2026-07-09 09:46:54*
