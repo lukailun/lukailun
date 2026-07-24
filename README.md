@@ -27,16 +27,16 @@
 |[eCanCrusher-for-macOS](https://github.com/lukailun/eCanCrusher-for-macOS)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐5`|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|`⭐5`|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|`⭐0`|
+|[dev-kit](https://github.com/lukailun/dev-kit)|None|`⭐0`|
 |[eCanCrusher-for-Windows](https://github.com/lukailun/eCanCrusher-for-Windows)|A simple application to convert an EPUB folder into a compressed .epub file, and back.|`⭐0`|
-|[Flutter-Resume](https://github.com/lukailun/Flutter-Resume)|A simple resume written by Flutter.|`⭐0`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[dev-kit](https://github.com/lukailun/dev-kit)|None|![2026-07-23 19:10:41](https://img.shields.io/badge/2026--07--23-19%3A10%3A41-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-07-23 09:42:12](https://img.shields.io/badge/2026--07--23-09%3A42%3A12-brightgreen?style=flat-square)|
 |[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-07-22 11:51:12](https://img.shields.io/badge/2026--07--22-11%3A51%3A12-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-07-22 09:22:37](https://img.shields.io/badge/2026--07--22-09%3A22%3A37-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-07-15 19:05:51](https://img.shields.io/badge/2026--07--15-19%3A05%3A51-brightgreen?style=flat-square)|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-07-10 16:16:21](https://img.shields.io/badge/2026--07--10-16%3A16%3A21-brightgreen?style=flat-square)|
-|[pulaude](https://github.com/lukailun/pulaude)|Pulse for Claude — a physical status indicator for your pocket.|![2026-06-30 17:17:19](https://img.shields.io/badge/2026--06--30-17%3A17%3A19-brightgreen?style=flat-square)|
 
-*Last updated: 2026-07-23 09:42:11*
+*Last updated: 2026-07-24 09:26:28*
