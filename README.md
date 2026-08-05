@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-08-03 09:29:31](https://img.shields.io/badge/2026--08--03-09%3A29%3A31-brightgreen?style=flat-square)|
+|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-08-04 11:36:27](https://img.shields.io/badge/2026--08--04-11%3A36%3A27-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-08-04 09:18:46](https://img.shields.io/badge/2026--08--04-09%3A18%3A46-brightgreen?style=flat-square)|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-07-28 18:37:22](https://img.shields.io/badge/2026--07--28-18%3A37%3A22-brightgreen?style=flat-square)|
 |[dev-kit](https://github.com/lukailun/dev-kit)|None|![2026-07-28 13:29:29](https://img.shields.io/badge/2026--07--28-13%3A29%3A29-brightgreen?style=flat-square)|
-|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-07-27 13:49:59](https://img.shields.io/badge/2026--07--27-13%3A49%3A59-brightgreen?style=flat-square)|
 |[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-07-22 11:51:12](https://img.shields.io/badge/2026--07--22-11%3A51%3A12-brightgreen?style=flat-square)|
 
-*Last updated: 2026-08-04 09:18:45*
+*Last updated: 2026-08-05 09:23:17*
