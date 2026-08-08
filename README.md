@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-08-07 10:00:42](https://img.shields.io/badge/2026--08--07-10%3A00%3A42-brightgreen?style=flat-square)|
 |[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-08-06 19:16:10](https://img.shields.io/badge/2026--08--06-19%3A16%3A10-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-08-06 09:20:45](https://img.shields.io/badge/2026--08--06-09%3A20%3A45-brightgreen?style=flat-square)|
 |[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-08-04 11:36:27](https://img.shields.io/badge/2026--08--04-11%3A36%3A27-brightgreen?style=flat-square)|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-07-28 18:37:22](https://img.shields.io/badge/2026--07--28-18%3A37%3A22-brightgreen?style=flat-square)|
 |[dev-kit](https://github.com/lukailun/dev-kit)|None|![2026-07-28 13:29:29](https://img.shields.io/badge/2026--07--28-13%3A29%3A29-brightgreen?style=flat-square)|
 
-*Last updated: 2026-08-07 10:00:40*
+*Last updated: 2026-08-08 08:43:46*
