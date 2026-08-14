@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-08-12 19:06:06](https://img.shields.io/badge/2026--08--12-19%3A06%3A06-brightgreen?style=flat-square)|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-08-12 08:55:41](https://img.shields.io/badge/2026--08--12-08%3A55%3A41-brightgreen?style=flat-square)|
+|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-08-13 13:49:49](https://img.shields.io/badge/2026--08--13-13%3A49%3A49-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-08-13 08:57:24](https://img.shields.io/badge/2026--08--13-08%3A57%3A24-brightgreen?style=flat-square)|
 |[dev-kit](https://github.com/lukailun/dev-kit)|None|![2026-08-11 14:22:05](https://img.shields.io/badge/2026--08--11-14%3A22%3A05-brightgreen?style=flat-square)|
 |[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-08-06 19:16:10](https://img.shields.io/badge/2026--08--06-19%3A16%3A10-brightgreen?style=flat-square)|
 |[Claude-Workflow-Kit](https://github.com/lukailun/Claude-Workflow-Kit)|Claude Code 工作流，集成 Linear 和 GitLab|![2026-07-28 18:37:22](https://img.shields.io/badge/2026--07--28-18%3A37%3A22-brightgreen?style=flat-square)|
 
-*Last updated: 2026-08-13 08:57:22*
+*Last updated: 2026-08-14 08:56:42*
