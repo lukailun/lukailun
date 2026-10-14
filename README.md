@@ -33,10 +33,10 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-10-11 10:37:34](https://img.shields.io/badge/2026--10--11-10%3A37%3A34-brightgreen?style=flat-square)|
+|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-10-13 23:01:36](https://img.shields.io/badge/2026--10--13-23%3A01%3A36-brightgreen?style=flat-square)|
+|[lukailun](https://github.com/lukailun/lukailun)|🔄 Auto-updating GitHub profile README generator with stats, top repos and recent activities.|![2026-10-13 12:17:04](https://img.shields.io/badge/2026--10--13-12%3A17%3A04-brightgreen?style=flat-square)|
 |[mc-use-it-or-lose-it](https://github.com/lukailun/mc-use-it-or-lose-it)|麦麦积分末班车（Mc-Use-It-or-Lose-It）：在麦当劳积分过期前，用最小消耗把它花掉。基于麦当劳 MCP——算方案、抽奖/兑换，一次对话搞定。|![2026-10-10 15:53:23](https://img.shields.io/badge/2026--10--10-15%3A53%3A23-brightgreen?style=flat-square)|
-|[react-native-animated-header-flat-list](https://github.com/lukailun/react-native-animated-header-flat-list)|A React Native FlatList component with an animated collapsible header, featuring parallax effects, smooth title transitions, sticky component support, and customizable styles. Built with TypeScript and separate background/content layers in header.|![2026-09-30 11:44:40](https://img.shields.io/badge/2026--09--30-11%3A44%3A40-brightgreen?style=flat-square)|
 |[dev-kit](https://github.com/lukailun/dev-kit)|None|![2026-09-22 11:36:08](https://img.shields.io/badge/2026--09--22-11%3A36%3A08-brightgreen?style=flat-square)|
 |[tech-notes](https://github.com/lukailun/tech-notes)|Comprehensive tech notes: mobile development, cross-platform, AI tools, CI/CD, and modern engineering practices.|![2026-08-06 19:16:10](https://img.shields.io/badge/2026--08--06-19%3A16%3A10-brightgreen?style=flat-square)|
 
-*Last updated: 2026-10-13 12:17:02*
+*Last updated: 2026-10-14 10:28:30*
